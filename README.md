@@ -1,6 +1,6 @@
 # Completely built with Html5,Css3 & Javascript
 
-# HotstarClone
+# Movie Store
 
 # user can choose the movies from different geners
 
